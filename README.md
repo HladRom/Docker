@@ -3,7 +3,6 @@
 https://hub.docker.com/
 
 
-
 ## Container Name: hladroman/dockerproj123:proj3
 
 Description: This container contains a simple web application based on the Flask framework, which displays the message "Hello, World!". The container also includes a PostgreSQL database used for data storage.
